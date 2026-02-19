@@ -6,6 +6,6 @@ We make tools and utilities to help you mess with your devices easier, and witho
 </br></br>We have a primary focus on ChromeOS and Chromebooks, but we are willing to branch out and make stuff for other platforms!! (ChromeOS is just a starting point for OSmium and we plan to go further in making our utilities outside of it someday!)
 <h2 align="center">Projects!</h2>
   
-* (Cr3nroll)[https://github.com/CrOSmium/cr3nroll] - A general CrOS enrollment utility
+* [Cr3nroll](https://github.com/CrOSmium/cr3nroll) - A general CrOS enrollment utility
 * still nothing..
 * nothin' :P
