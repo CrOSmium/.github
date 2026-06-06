@@ -7,5 +7,5 @@ We make tools and utilities to help you mess with your devices easier, and witho
 <h2 align="center">Projects!</h2>
   
 * [Cr3nroll](https://github.com/CrOSmium/cr3nroll) - A general CrOS enrollment utility
-* Coming soon!
+* [Modmium](https://github.com/CrOSmium/modmium) - a chromeOS modification built to allow the freedom of an unrestricted device on a managed device.
 * nothing yet :/
